@@ -24,7 +24,7 @@ export async function renderTitle(toolbox: Toolbox) {
       font: 'Standard',
       horizontalLayout: 'fitted',
       verticalLayout: 'fitted',
-      width: 40,
+      width: 50,
       whitespaceBreak: true
     },
     (err, data) => {
